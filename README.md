@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> I'm a Software Engineering student, from Brazi</p>
+<p align="left"> I'm a Software Engineering student, from Brazil</p>
 
 ###
 
