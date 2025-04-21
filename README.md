@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vitor and I'm a Software Engineering student, from Brazil</p>
+<p align="left"> I'm a Software Engineering student, from Brazi</p>
 
 ###
 
