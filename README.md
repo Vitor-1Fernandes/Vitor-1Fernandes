@@ -1,20 +1,16 @@
-<h1 align="left">Hey, let's go ahead!</h1>
+<h1 align="center">Hey, let's go ahead!</h1>
 
 ###
 
-<p align="left"> I'm a Software Engineering student, from Brazil</p>
+<p align="center">My name is Vitor and I'm a Software Engineering student, from Brazil</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">📚 Studying since March, 2025<br>💾 Here I save my college projects<br>💼 Currently working for Corinthians</p>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/vitor-fernandes-99625422b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
@@ -22,11 +18,15 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="center">📚 Studying since March, 2025<br>💾 Here I save my college projects<br>💼 Currently working for Corinthians</p>
 
 ###
 
-<div align="left">
+<h2 align="center">I code with</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
