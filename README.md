@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">📚 Studying since March, 2025<br>💾 Here I save my college projects<br>💼 Currently working for Corinthians</p>
+<p align="center">📚 Studying since February, 2025<br>💾 Here I save my college projects<br>💼 Currently working for Corinthians</p>
 
 ###
 
