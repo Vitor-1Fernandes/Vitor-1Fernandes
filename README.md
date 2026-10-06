@@ -28,18 +28,7 @@ class Vitor:
         return "Estágio em Dados: extrair, validar e analisar dados em um time colaborativo"
 ```
 
-Comecei aos **15 anos como Jovem Aprendiz**, virei assistente administrativo e hoje sou analista de transformação digital. Nesse caminho aprendi que o dado só vale quando alguém consegue entendê-lo e usá-lo. Gosto de ficar na ponte entre **quem constrói a tecnologia** e **quem toma a decisão de negócio**, traduzindo uma coisa na outra.
-
----
-
 ## 📍 Minha trajetória
-
-| Quando | O quê |
-|---|---|
-| **2022** | Jovem Aprendiz (CIEE), onde tudo começou |
-| **2023** | Assistente Administrativo, mapeando processos e regras de negócio |
-| **03/2026 → hoje** | Analista de Transformação Digital: dados, KPIs, dashboards e automações |
-| **2025 → 2028** | Bacharelado em Engenharia de Software na FIAP (4º semestre) |
 
 ---
 
