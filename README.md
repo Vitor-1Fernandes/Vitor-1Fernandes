@@ -28,10 +28,6 @@ class Vitor:
         return "Estágio em Dados: extrair, validar e analisar dados em um time colaborativo"
 ```
 
-## 📍 Minha trajetória
-
----
-
 ## 📊 Impacto real, em números
 
 - 🅿️ **-73% de despesa por jogo** com cortesias de estacionamento, ao reorganizar o uso a partir de análise de dados (e 100% de otimização no cenário de faturamento).
