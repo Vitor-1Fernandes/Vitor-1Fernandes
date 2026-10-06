@@ -70,7 +70,6 @@ Automações em **Python, Pandas, Selenium e Tkinter** criadas no trabalho para 
 **BI e planilhas**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
@@ -95,15 +94,15 @@ Automações em **Python, Pandas, Selenium e Tkinter** criadas no trabalho para 
 
 ---
 
-## 🎓 Na faculdade
+##  Na faculdade
 
-- Projeto entre os **30 melhores** de Engenharia de Software da turma
+- Projeto entre os **20 melhores** de Engenharia de Software
 - Liderança de projetos com casos de uso reais, usando design de software e metodologias ágeis
 - Algoritmos e estruturas de dados (árvores, grafos) e apresentações em público com storytelling
 
 ---
 
-## 🎯 O que eu procuro
+## O que eu procuro
 
 Um **estágio em Dados** onde eu possa usar o que aprendo na faculdade todos os dias, com **extração, validação e análise** de dados, em um ambiente colaborativo e com gente para aprender junto.
 
@@ -117,13 +116,5 @@ Se o seu time tem esse perfil, vamos conversar! 🤝
 
 ---
 
-<div align="center">
-
-### 📈 Estatísticas do GitHub
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor-1fernandes&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-1fernandes&layout=compact&theme=radial" alt="Linguagens mais usadas" />
-
-*Dados contam histórias. Eu gosto de descobrir qual é a próxima.* 📊
 
 </div>
