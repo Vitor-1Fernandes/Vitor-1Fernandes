@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=5B93B8&center=true&vCenter=true&width=700&lines=Satisfação!%2C+Vitor+Fernandes+%F0%9F%91%8B;Engenharia+de+Software+%2B+Dados;Transformando+dados+brutos+em+decis%C3%A3o;Automa%C3%A7%C3%A3o+%7C+Python+%7C+SQL+%7C+BI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=5B93B8&center=true&vCenter=true&width=700&lines=Satisfa%C3%A7%C3%A3o%21+Vitor+Fernandes+%F0%9F%91%8B;Engenharia+de+Software+%2B+Dados;Transformando+dados+brutos+em+decis%C3%A3o;Automa%C3%A7%C3%A3o+%7C+Python+%7C+SQL+%7C+BI" alt="Typing SVG" />
 
 **Estudante de Engenharia de Software · Analista de Transformação Digital · em busca de um estágio em Dados**
 
